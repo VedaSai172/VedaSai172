@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veda Kamisetty</h1>
+<h1 align="center">Hi 👋, I'm Vedasai Kamisetty</h1>
 <h3 align="center">Software Engineer | Business Analytics Graduate | Passionate Problem Solver</h3>
 
 ---
