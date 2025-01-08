@@ -68,7 +68,7 @@ Here are some highlights of my work:
 
 - 📧 Email: [vedakamisetty@gmail.com](mailto:vedakamisetty@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/veda-kamisetty](#)  
-- 🌐 Portfolio: [Coming Soon]  
+- 🌐 Portfolio: [Vedasai Kamisetty](https://vedasai172.github.io/Portfolio/)]  
 
 ---
 
